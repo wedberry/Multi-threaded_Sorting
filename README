@@ -1,0 +1,24 @@
+Authors: Edward Berry, Nicole Edoziem
+Collaboration statement: We used the following resources:
+
+https://www.geeksforgeeks.org/c-program-for-char-to-int-conversion/
+- Char* to int using sscanf
+
+https://www.tutorialspoint.com/c_standard_library/c_function_rand.htm
+- how to use rand()
+
+https://github.com/dansmyers/ComputerOrganizationAndArchitecture/blob/master/Notes/08a-C_structs.md
+https://github.com/dansmyers/ComputerOrganizationAndArchitecture/blob/master/Notes/08b-Pointers_and_Structs.md
+- Dr Myers's CMS 230 notes on structs, also used his notes on pointers and structs
+
+https://www.geeksforgeeks.org/selection-sort/
+- select sort review
+
+https://stackoverflow.com/questions/37538/how-do-i-determine-the-size-of-my-array-in-c
+ getting the size of an array in c
+
+https://pubs.opengroup.org/onlinepubs/7908799/xsh/pthread_create.html#:~:text=The%20pthread_create()%20function%20is,thread's%20attributes%20are%20not%20affected.
+- writeup for pthread_create
+
+https://pubs.opengroup.org/onlinepubs/9699919799/functions/pthread_join.html
+- pthread_join
